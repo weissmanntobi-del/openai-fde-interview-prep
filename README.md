@@ -10,6 +10,10 @@ This independent practice repository is **informed by the publicly listed respon
 
 **Role source:** [OpenAI — Forward Deployed Engineer (FDE), SF](https://openai.com/careers/forward-deployed-engineer-%28fde%29-sf-san-francisco/). Also see [OpenAI's description of enterprise FDE delivery](https://openai.com/business/forward-deployed-engineering/). Role descriptions and hiring processes can change.
 
+OpenAI FDE Interview Preparation :  https://tobiweissmann.gumroad.com/l/wsyhmd
+
+AI FDE Interview Bundle: https://tobiweissmann.gumroad.com/l/bciwd
+
 ## Why this repository is different
 
 A successful deployment is not just an impressive model demo. Practice the complete chain:
