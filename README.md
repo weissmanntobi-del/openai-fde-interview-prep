@@ -64,9 +64,8 @@ A customer needs a useful claims-review copilot within 6 weeks, with hard constr
 
 This repository provides **substantial free sample exercises and runnable code**. For a future extended OpenAI FDE preparation pack, potential additions include scored mock interviews, complete reference implementations, additional eval datasets, architecture reviews, incident labs, and a candidate/instructor workbook.
 
-**OpenAI-specific paid bundle:** *not linked yet — add the verified product URL when published.*
+**OpenAI-specific paid bundle:** https://tobiweissmann.gumroad.com/l/wsyhmd
 
-**Existing related material:** [Google FDE Interview Preparation Bundle](https://tobiweissmann.gumroad.com/l/gjfkao). This is a separate Google-focused resource, **not** an OpenAI-specific product.
 
 If this repository helps, **star** it and share it with another engineer. For corrections or new practice cases, see [CONTRIBUTING](CONTRIBUTING.md).
 
