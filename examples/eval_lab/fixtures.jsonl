@@ -1,0 +1,8 @@
+{"id":"C01","amount":20,"fraud_flag":false,"has_receipt":true,"expected":"approve"}
+{"id":"C02","amount":150,"fraud_flag":false,"has_receipt":true,"expected":"review"}
+{"id":"C03","amount":20,"fraud_flag":false,"has_receipt":false,"expected":"review"}
+{"id":"C04","amount":10,"fraud_flag":true,"has_receipt":true,"expected":"review"}
+{"id":"C05","amount":0,"fraud_flag":false,"has_receipt":true,"expected":"deny"}
+{"id":"C06","amount":500,"fraud_flag":true,"has_receipt":true,"expected":"review"}
+{"id":"C07","amount":100,"fraud_flag":false,"has_receipt":true,"expected":"approve"}
+{"id":"C08","amount":101,"fraud_flag":false,"has_receipt":true,"expected":"review"}
